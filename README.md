@@ -1,46 +1,40 @@
-# Fonte-de-Tens-o-Ajust-vel
-Alunos
+### Descrição dos Componentes
 
-![image](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/assets/104126982/779f717b-3138-4d37-aab8-b5faed7875d9)
+1. **Transformador**
+   - Transforma a tensão de 127V AC da fonte de corrente alternada para uma tensão mais baixa adequada ao circuito, com um pico de tensão de 180V.
 
-Lista de Componentes
+2. **Ponte Retificadora**
+   - Composta por 4 diodos que convertem a corrente alternada (AC) em corrente contínua (DC), considerando uma perda de 1.4V (0.7V por diodo).
 
+3. **Capacitor**
+   - Componente eletrônico passivo que armazena energia elétrica e suaviza variações de tensão, escolhido para reduzir o ripple (variação) da tensão para aproximadamente 10%.
 
-Lista-se, a seguir, todos os componentes utilizados no projeto.
+4. **Diodo Zener**
+   - Regula a tensão máxima do circuito, com uma tensão de ruptura de 13V, ajudando a eliminar oscilações indesejadas.
 
+5. **Potenciômetro**
+   - Ajusta a tensão de saída entre 3V e 12V, proporcionando controle variável sobre a voltagem fornecida pelo circuito.
 
-1.Protoboard - Placa de ensaio de circuitos elétricos que nos permite testar nosso projeto com facilidade.
+6. **Transistor NPN**
+   - Utilizado em conjunto com o Zener para regular a tensão de saída, limitando-a a 12V conforme necessário.
 
-2.Fios - Componentes capaz de conduzir corrente elétrica e unir diferentes partes do circuito.
+7. **Resistores**
+   - Incluídos para controlar corrente em diferentes partes do circuito: um para o LED, outro para o Zener (evitando superaquecimento), um terceiro com o potenciômetro para ajustar a tensão mínima para 3V. Um resistor de 100 ohms não foi incluído devido à falta de um componente com especificações adequadas encontrado pelo grupo.
 
-3.Resistores - Componentes responsáveis por limitar a corrente elétrica.
+8. **LED**
+   - Adicionado como indicador visual do funcionamento do circuito, sem função prática além de ornamental.
 
-100Ω
+### Tabela de Componentes
 
-120Ω
+| Componente           | Quantidade | Valor Unitário | Valor Total |
+|----------------------|------------|----------------|-------------|
+| Transformador        | 1          | R$X            | R$X         |
+| Ponte Retificadora   | 1          | R$X            | R$X         |
+| Capacitor            | 1          | R$X            | R$X         |
+| Diodo Zener          | 1          | R$X            | R$X         |
+| Potenciômetro        | 1          | R$X            | R$X         |
+| Transistor NPN       | 1          | R$X            | R$X         |
+| Resistor             | 4          | R$X            | R$X         |
+| LED                  | 1          | R$X            | R$X         |
+| **Valor Total**      |            |                | **R$X**     |
 
-2k2Ω
-
-820Ω
-
-
-
-4.Diodos - Dispositivos capaz de interromper a passagem de corrente em um sentido. Nos ajuda a transformar corrente alternada em contínua.
-
-5.Led - Componente que emite luz caso seja percorrido com corrente elétrica no sentido correto.
-
-6.Capacitor - São dispositivos capazez de armazenar energia. É extremamente importante pois auxilia na filtragem, reduzindo a variação de tensão.
-
-470uF
-
-
-
-7.Transistor - Dispositivo responsável por auxiliar na regulação da tensão.
-
-8.Potenciômetro - Componente com uma resistência variável, é responsável por controlar a tensão atuante na carga do nosso projeto.
-
-5kΩ
-
-
-
-9.Transformador 25V - Componente capaz de modificar a tensão por meio de indução eletromagnética. É fundamental no projeto pois reduz bruscamente a tensão da tomada.
