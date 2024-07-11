@@ -42,6 +42,13 @@
 
 ![Circuito](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito.png)
 
+
+
+
 Para entender mais sobre como o circuito funciona, assista ao vídeo abaixo:
 
-[![Assista ao vídeo](https://img.youtube.com/vi/2T_0PLn-Tzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=2T_0PLn-Tzo)
+<div style="max-width: 560px;">
+  <a href="https://www.youtube.com/watch?v=2T_0PLn-Tzo">
+    <img src="https://img.youtube.com/vi/2T_0PLn-Tzo/maxresdefault.jpg" alt="Assista ao vídeo" style="width: 100%; height: auto;">
+  </a>
+</div>
