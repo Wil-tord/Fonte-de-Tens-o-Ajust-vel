@@ -48,7 +48,9 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 
 ![Circuito](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito.png)
 
-#### Imagem do circuito no Falstad
+[Circuito vivo no Falstad](https://tinyurl.com/2otdfyqo)
+
+![Circuito Físico](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito%20fisico.jpeg)
 
 ![Thumbnail](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/video-thumbnail.png)
 
