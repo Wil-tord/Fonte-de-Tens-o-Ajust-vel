@@ -52,8 +52,5 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 
 ![Circuito Físico](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito%20fisico.jpeg)
 
-![Thumbnail](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/video-thumbnail.png)
+Para entender melhor como o circuito funciona, assista a este vídeo [clique aqui](https://www.youtube.com/watch?v=2T_0PLn-Tzo).
 
-#### Para entender mais sobre como o circuito funciona, assista ao vídeo abaixo:
-
-[![Assista ao vídeo](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/video-thumbnail.png)](https://www.youtube.com/watch?v=2T_0PLn-Tzo)
