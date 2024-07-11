@@ -42,9 +42,6 @@
 
 ![Circuito](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito.png)
 
-
-
-
 Para entender mais sobre como o circuito funciona, assista ao vídeo abaixo:
 
 <div style="max-width: 560px;">
