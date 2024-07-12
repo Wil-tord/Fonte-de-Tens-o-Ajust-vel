@@ -32,17 +32,22 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 
 ### Tabela de Componentes
 
-| Componente           | Quantidade | Valor Unitário | Valor Total |
-|----------------------|------------|----------------|-------------|
-| Transformador        | 1          | R$X            | R$X         |
-| Ponte Retificadora   | 1          | R$X            | R$X         |
-| Capacitor            | 1          | R$X            | R$X         |
-| Diodo Zener          | 1          | R$X            | R$X         |
-| Potenciômetro        | 1          | R$X            | R$X         |
-| Transistor NPN       | 1          | R$X            | R$X         |
-| Resistor             | 4          | R$X            | R$X         |
-| LED                  | 1          | R$X            | R$X         |
-| **Valor Total**      |            |                | **R$X**     |
+| Componente                        | Quantidade | Valor   |
+|-----------------------------------|------------|---------|
+| Protoboard                        | 1          | R$22,00 |
+| Diodo Zener 1N4743 (13V / 1W)     | 1          | R$ 0,50 |
+| Resistor 2k                       | 1          | R$ 0,70 |
+| Resistor 1k                       | 1          | R$ 0,70 |
+| Resistor 100R                     | 1          | R$ 0,70 |
+| Resistor 120R                     | 1          | R$ 0,70 |
+| Diodos                            | 4          | R$ 3,20 |
+| Led Vermelho                      | 1          | R$ 0,50 |
+| Transistor NPN                    | 1          | R$ 0,70 |
+| Potenciômetro (10k)               | 1          | R$ 7,00 |
+| Capacitor Eletrolítico (470uF)    | 1          | R$ 1,50 |
+| Kit Jumpers                       | 1          | R$15,00 |
+
+**Total**                          |            | **R$53,20**
 
 ### Circuito
 
