@@ -1,5 +1,12 @@
 # Projeto de uma Fonte de Tensão Ajustável entre 3V a 12V com Capacidade de 100mA
 
+### Alunos
+
+| Nome               | Número USP |
+|--------------------|------------|
+| Gabriel Demba      | 15618344   |
+| Wiltord N Mosingi  | 15595392   |
+
 ### Descricao
 
 Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma saída entre 3V e 12V com capacidade de 100mA. A fonte converte a corrente alternada de 127V da rede elétrica em uma tensão contínua ajustável, adequada para várias aplicações eletrônicas. O circuito utiliza um transformador, ponte retificadora, capacitores para filtragem, e um potenciômetro para ajuste de tensão. Componentes como o diodo Zener e transistores garantem a regulação e estabilização da tensão, proporcionando um fornecimento de energia seguro e confiável.
@@ -58,4 +65,5 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 ![Circuito Físico](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito%20fisico.jpeg)
 
 Para entender melhor como o circuito funciona, assista a este vídeo [clique aqui](https://www.youtube.com/watch?v=2T_0PLn-Tzo).
+
 
