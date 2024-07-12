@@ -39,15 +39,15 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 | Resistor 2k                       | 1          | R$ 0,70 |
 | Resistor 1k                       | 1          | R$ 0,70 |
 | Resistor 100R                     | 1          | R$ 0,70 |
-| Resistor 120R                     | 1          | R$ 0,70 |
-| Diodos                            | 4          | R$ 3,20 |
+| Resistor 120R                     | 1          | R$ 1,90 |
+| Diodos                            | 10         | R$ 2,00 |
 | Led Vermelho                      | 1          | R$ 0,50 |
 | Transistor NPN                    | 1          | R$ 0,70 |
 | Potenciômetro (10k)               | 1          | R$ 7,00 |
 | Capacitor Eletrolítico (470uF)    | 1          | R$ 1,50 |
 | Kit Jumpers                       | 1          | R$15,00 |
+| **Total**                         |            | **R$53,20** |
 
-**Total**                          |            | **R$53,20**
 
 ### Circuito
 
