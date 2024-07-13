@@ -64,6 +64,12 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 
 [Circuito vivo no Falstad](https://tinyurl.com/2otdfyqo)
 
+## Esquemático no EAGLE
+![Esquemático no EAGLE](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/img1.png?raw=true)
+
+## Circuito PCB no EAGLE
+![Circuito PCB no EAGLE](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/img2.png?raw=true)
+
 ![Circuito Físico](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Circuito%20fisico.jpeg)
 
 Para entender melhor como o circuito funciona, assista a este vídeo [clique aqui](https://www.youtube.com/watch?v=2T_0PLn-Tzo).
