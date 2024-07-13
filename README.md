@@ -36,6 +36,8 @@ Este projeto visa desenvolver uma fonte de tensão ajustável que forneça uma s
 
 8. **LED**
    - Adicionado como indicador visual do funcionamento do circuito, sem função prática além de ornamental.
+  
+![Calculos](https://github.com/Wil-tord/Fonte-de-Tens-o-Ajust-vel/blob/main/Calculos.jpeg?raw=true)
 
 ### Tabela de Componentes
 
